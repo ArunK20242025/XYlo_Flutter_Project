@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90765276381",
+    "project_id": "xylo-98a4c",
+    "storage_bucket": "xylo-98a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90765276381:android:3c80df02b53471dd691734",
+        "android_client_info": {
+          "package_name": "com.example.xylo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxafmgiyAZqHW38fEk4G7NpKUxD4MxqGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
